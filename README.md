@@ -1,4 +1,6 @@
-website
-=======
+pma website
+===========
 
-the website will be here! 
+Author: Caleb Adams
+Version: 1.0v
+
